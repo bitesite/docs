@@ -8,6 +8,7 @@ This document outlines setting up a new rails project for most BiteSite customer
 2. `rails new appname`
 3. Remove `.ruby-version`
 4. Edit `Gemfile` to include ruby version and ruby gemset
+5. More coming soon.
 
 ## BitBucket
 

@@ -43,3 +43,7 @@ Coming soon.
 ## FactoryBot
 
 Coming soon.
+
+## Faker
+
+Coming soon.
